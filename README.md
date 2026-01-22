@@ -147,7 +147,7 @@ ABC_Events_SQL_Project/
 │ └── RDM.png
 │
 ├── database/
-│ └── sample_outputs.pdf
+│ └── DATABASE.png
 │
 └── README.md
 
