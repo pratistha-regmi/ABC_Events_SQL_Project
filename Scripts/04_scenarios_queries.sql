@@ -97,8 +97,6 @@ ORDER BY number_of_events DESC;
 /* ---------------------------------------------------------
 Scenario 7:
 Invoice amount statistics for events that have payments
-(If you mean "fully paid", keep BALANCE_DUE = 0;
-If you mean "any payment exists", remove that line.)
 --------------------------------------------------------- */
 SELECT
     MIN(i.AMOUNT)           AS Minimum_Amount,
